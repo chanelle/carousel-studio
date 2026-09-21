@@ -46,8 +46,8 @@ v1.5. See Issues for the fix history — autosave (#4) is the one open item.
 
 ## Run it
 
-Open `index.html` in any modern browser. (Hosted version link goes here once
-GitHub Pages is live.)
+Live demo: **https://chanelle.github.io/carousel-studio/** — or open `index.html`
+in any modern browser.
 
 ## License
 
